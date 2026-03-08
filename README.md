@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**jophinklaiju/jophinklaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jophin**, a Python Full-Stack Developer from Kerala, India.
 
-Here are some ideas to get you started:
+I enjoy building web applications using **Python, Django, React, and JavaScript**.
+I like turning ideas into real projects and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Facts
+
+* 💻 Love coding and building web apps
+* 🎬 Enjoy movies and tech content
+* 🏋️ Gym and fitness enthusiast
+
+📫 **Email:** [jophinklaiju@gmail.com](mailto:jophinklaiju@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/jophin-k-laiju
+💻 **GitHub:** https://github.com/jophinklaiju
+
