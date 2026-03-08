@@ -7,7 +7,7 @@ Most of my work focuses on **Python, Django, React, and modern web development**
 
 If I get an idea for a project, I usually try to build it and learn something new from it. 🚀
 
-My tech stack includes **Python, JavaScript, React, Django, HTML, CSS, MongoDB, and MySQL**.
+My tech stack includes [Python](https://www.python.org/), JavaScript, React, Django, HTML, CSS, MongoDB, and MySQL**.
 
 I've worked on several projects including a **Netflix Clone, Food Restaurant App (MERN Stack), and a Gaming Phones Website**.
 
