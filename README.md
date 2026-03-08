@@ -15,7 +15,11 @@ My tech stack includes
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) •
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) •
 [MongoDB](https://www.mongodb.com/) •
-[MySQL](https://www.mysql.com/)
+[MySQL](https://www.mysql.com/),
+[Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/),
+[PostgreSQL](https://www.postgresql.org/),
+[Django REST](https://www.django-rest-framework.org/),
+
 
 I've worked on several projects including a **Netflix Clone, Food Restaurant App (MERN Stack), Gaming Phones Website and an Ecommerce Fashion Store Website (DJANGO)**.
 
