@@ -27,4 +27,4 @@ If you want to collaborate or connect, feel free to reach out!
 
 📧 **Email:** [jophinklaiju@gmail.com](mailto:jophinklaiju@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/jophin-k-laiju](https://www.linkedin.com/in/jophin-k-laiju)
-💻 **GitHub:** [github.com/jophinklaiju](https://github.com/jophinklaiju)
+💻 **Indeed:** [](https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage)
