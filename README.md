@@ -9,6 +9,7 @@ If I get an idea for a project, I usually try to build it and learn something ne
 
 My tech stack includes
 
+
 <p align="left">
 
 <a href="https://getbootstrap.com" target="_blank">
@@ -52,6 +53,8 @@ My tech stack includes
 </a>
 
 </p>
+
+
 
 
 I've worked on several projects including a **Netflix Clone, Food Restaurant App (MERN Stack), Gaming Phones Website and an Ecommerce Fashion Store Website (DJANGO)**.
